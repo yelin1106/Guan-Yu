@@ -1,4 +1,4 @@
-# GuanYu
+# Guan-Yu
 關羽🛡
 
 ## Level1[🔥](https://github.com/Oath-of-the-Peach-Garden/GuanYu)
