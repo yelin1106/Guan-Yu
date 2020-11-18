@@ -12,3 +12,5 @@ def solution(n):
 
 
 print(solution(1))
+
+#도연&핼 : math의 sqrt사용
