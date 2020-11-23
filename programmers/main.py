@@ -22,4 +22,8 @@
 #import step3.select_plus
 #import step3.reverse_ternary_scale
 #import step3.inner_product
-import step3.kth_number
+#import step3.kth_number
+
+#import step4.budget
+#import step4.keypad
+import step4.claw_machine_game
