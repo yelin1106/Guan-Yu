@@ -5,11 +5,11 @@
 
 | week1 |
 |---|
-| <ul><li>- [X] </li></ul> 직사각형 별찍기 |
-| - [X] x만큼 간격이 있는 n개의 숫자 |
-| :white_check_mark: 행렬의 덧셈 |
+| :heavy_check_mark: 직사각형 별찍기 |
+| :heavy_check_mark: x만큼 간격이 있는 n개의 숫자 |
+| :heavy_check_mark: 행렬의 덧셈 |
 | :heavy_check_mark: 핸드폰 번호 가리기 |
-| :white_check_mark: 하샤드 수 |
+| :heavy_check_mark: 하샤드 수 |
 | [x] 평균 구하기 |
 | [X] 콜라츠 추측 |
 | [X] 최대공약수와 최소공배수 |
