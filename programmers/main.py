@@ -26,4 +26,7 @@
 
 #import step4.budget
 #import step4.keypad
-import step4.claw_machine_game
+#import step4.claw_machine_game
+
+#import week5.secret_map
+import week5.failure_late
