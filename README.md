@@ -1,62 +1,29 @@
 # Guan-Yu
 關羽🛡
+programmers 문제 단계별로 풀기
 
 ## Level1[🔥](https://github.com/Oath-of-the-Peach-Garden/GuanYu)
 
-| week1 |
-|---|
-| :heavy_check_mark: 직사각형 별찍기 |
-| :heavy_check_mark: x만큼 간격이 있는 n개의 숫자 |
-| :heavy_check_mark: 행렬의 덧셈 |
-| :heavy_check_mark: 핸드폰 번호 가리기 |
-| :heavy_check_mark: 하샤드 수 |
-| :heavy_check_mark: 평균 구하기 |
-| :heavy_check_mark: 콜라츠 추측 |
-| :heavy_check_mark: 최대공약수와 최소공배수 |
-| :heavy_check_mark: 짝수와 홀수 |
-| :heavy_check_mark: 제일 작은수 제거하기 |
-| :heavy_check_mark: 정수 제곱근 판별 |
-| :heavy_check_mark: 정수 내림차순으로 배치하기 |
-
-### week2
-- [ ] 자연수 뒤집어 배열로 만들기
-- [ ] 자릿수 더하기
-- [ ] 이상한 문자 만들기
-- [ ] 약수의 합
-- [ ] 시저 암호
-- [ ] 문자열을 정수로 바꾸기
-- [ ] 수박수박수박수박수박수?
-- [ ] 소수 찾기
-- [ ] 서울에서 김서방 찾기
-- [ ] 문자열 다루기 기분
-- [ ] 문자열 내림차순으로 배치하기
-- [ ] 문자열 내 p와 y의 개수
-- [ ] 문자열 내 마음대로 정렬하기
-- [ ] 두 정수 사이의 합
-- [ ] 나누어 떨어지는 숫자 배열
-- [ ] 같은 숫자는 싫어
-- [ ] 가운데 글자 가져오기
-- [ ] 2016년
-
-
-### week3
-- [X] 두 개 뽑아서 더하기
-- [X] 완주하지 못한 선수
-- [X] 모의고사
-- [X] 체육복
-- [X] K번째 수
-- [X] 3진법 뒤집기
-- [X] 내적
-
-### week4
-- [X] 크레인 인형뽑기 게임
-- [X] 예산
-- [X] 키패드 누르기
-
-### week5
-- [X] [1차] 비밀지도
-- [X] 실패율
-- [ ] [1차] 다트게임
+| week1 | week2 | week3 | week4 | week5 |
+|---|---|---|---|---|
+| :heavy_check_mark: 직사각형 별찍기 | 자연수 뒤집어 배열로 만들기 | :heavy_check_mark: 두 개 뽑아서 더하기 | :heavy_check_mark: 크레인 인형뽑기 게임 | :heavy_check_mark: [1차] 비밀지도 |
+| :heavy_check_mark: x만큼 간격이 있는 n개의 숫자 | 자릿수 더하기 | :heavy_check_mark: 완주하지 못한 선수 | :heavy_check_mark: 예산 | :heavy_check_mark: 실패율 |
+| :heavy_check_mark: 행렬의 덧셈 | 이상한 문자 만들기 | :heavy_check_mark: 모의고사 | :heavy_check_mark: 키패드 누르기 | :heavy_check_mark: [1차] 다트게임 |
+| :heavy_check_mark: 핸드폰 번호 가리기 | 약수의 합 | :heavy_check_mark: 체육복 |  |  |
+| :heavy_check_mark: 하샤드 수 | 시저 암호 | :heavy_check_mark: K번째 수 |  |  |
+| :heavy_check_mark: 평균 구하기 | 문자열을 정수로 바꾸기 | :heavy_check_mark: 3진법 뒤집기 |  |  |
+| :heavy_check_mark: 콜라츠 추측 | 수박수박수박수박수박수? | :heavy_check_mark: 내적 |  |  |
+| :heavy_check_mark: 최대공약수와 최소공배수 | 소수 찾기 |  |  |  |
+| :heavy_check_mark: 짝수와 홀수 | 서울에서 김서방 찾기 |  |  |  |
+| :heavy_check_mark: 제일 작은수 제거하기 | 문자열 다루기 기본 |  |  |  |
+| :heavy_check_mark: 정수 제곱근 판별 | 문자열 내림차순으로 배치하기 |  |  |  |
+| :heavy_check_mark: 정수 내림차순으로 배치하기 | 문자열 내 p와 y의 개수 |  |  |  |
+|  | 문자열 내 마음대로 정렬하기 |  |  |  |
+|  | 두 정수 사이의 합 |  |  |  |
+|  | 나누어 떨어지는 숫자 배열 |  |  |  |
+|  | 같은 숫자는 싫어 |  |  |  |
+|  | 가운데 글자 가져오기 |  |  |  |
+|  | 2016년 |  |  |  |
 
 ### database
 - [ ] 모든 레코드 조회하기
