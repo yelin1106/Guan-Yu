@@ -10,13 +10,13 @@
 | :heavy_check_mark: 행렬의 덧셈 |
 | :heavy_check_mark: 핸드폰 번호 가리기 |
 | :heavy_check_mark: 하샤드 수 |
-| [x] 평균 구하기 |
-| [X] 콜라츠 추측 |
-| [X] 최대공약수와 최소공배수 |
-| [X] 짝수와 홀수 |
-| [X] 제일 작은수 제거하기 |
-| [X] 정수 제곱근 판별 |
-| [X] 정수 내림차순으로 배치하기 |
+| :heavy_check_mark: 평균 구하기 |
+| :heavy_check_mark: 콜라츠 추측 |
+| :heavy_check_mark: 최대공약수와 최소공배수 |
+| :heavy_check_mark: 짝수와 홀수 |
+| :heavy_check_mark: 제일 작은수 제거하기 |
+| :heavy_check_mark: 정수 제곱근 판별 |
+| :heavy_check_mark: 정수 내림차순으로 배치하기 |
 
 ### week2
 - [ ] 자연수 뒤집어 배열로 만들기
