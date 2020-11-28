@@ -29,7 +29,7 @@ programmers 문제 단계별로 풀기
 |---|---|---|
 | :heavy_check_mark: 크레인 인형뽑기 게임 | :heavy_check_mark: [1차] 비밀지도 | 모든 레코드 조회하기 |
 | :heavy_check_mark: 예산 | :heavy_check_mark: 실패율 | 최댓값 구하기 |
-| :heavy_check_mark: 키패드 누르기 | [1차] 다트게임 | 역순 정렬하기 |
+| :heavy_check_mark: 키패드 누르기 | :heavy_check_mark: [1차] 다트게임 | 역순 정렬하기 |
 |  |  | 아픈 동물 찾기 |
 |  |  | 어린 동물 찾기 |
 |  |  | 동물의 아이디와 이름 |
