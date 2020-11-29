@@ -4,7 +4,7 @@ programmers 문제 단계별로 풀기
 
 ## Level1🔥
 
-| [week1](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/step1) | [week2](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/step2) | [week3](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/step3) |
+| [week1](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/week1) | [week2](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/week2) | [week3](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/week3) |
 |---|---|---|
 | :heavy_check_mark: 직사각형 별찍기 | 자연수 뒤집어 배열로 만들기 | :heavy_check_mark: 두 개 뽑아서 더하기 |
 | :heavy_check_mark: x만큼 간격이 있는 n개의 숫자 | 자릿수 더하기 | :heavy_check_mark: 완주하지 못한 선수 |
@@ -25,7 +25,7 @@ programmers 문제 단계별로 풀기
 |  | 가운데 글자 가져오기 |  |
 |  | 2016년 |  |
 
-| [week4](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/step4) | [week5](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/week5) | database |
+| [week4](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/week4) | [week5](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu/tree/main/programmers/week5) | database |
 |---|---|---|
 | :heavy_check_mark: 크레인 인형뽑기 게임 | :heavy_check_mark: [1차] 비밀지도 | 모든 레코드 조회하기 |
 | :heavy_check_mark: 예산 | :heavy_check_mark: 실패율 | 최댓값 구하기 |
