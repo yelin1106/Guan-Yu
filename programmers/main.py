@@ -30,4 +30,9 @@
 
 #import week5.secret_map
 #import week5.failure_late
-import week5.darts_game
+#import week5.darts_game
+
+#import week6.num_of_124_country
+###import week6.biggist_square
+#import week6.proper_bracket
+import week6.next_big_num
