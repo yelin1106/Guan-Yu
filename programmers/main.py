@@ -35,4 +35,12 @@
 #import week6.num_of_124_country
 ###import week6.biggist_square
 #import week6.proper_bracket
-import week6.next_big_num
+#import week6.next_big_num
+###import week6.hopscotch
+#import week6.number_expression
+#import week6.max_and_min
+#import week6.make_min
+#import week6.fibonacci_num
+###import week6.matrix_multiplication
+import week6.jadencase
+#import week6.some_of_lcm
