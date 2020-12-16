@@ -42,5 +42,7 @@
 #import week6.make_min
 #import week6.fibonacci_num
 ###import week6.matrix_multiplication
-import week6.jadencase
+#import week6.jadencase
 #import week6.some_of_lcm
+
+import week7.cross_the_bridge
