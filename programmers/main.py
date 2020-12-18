@@ -45,4 +45,7 @@
 #import week6.jadencase
 #import week6.some_of_lcm
 
-import week7.cross_the_bridge
+#import week7.cross_the_bridge
+#import week7.stock_price
+#import week7.biggest_num
+import week7.H_Index
