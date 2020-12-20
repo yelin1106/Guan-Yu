@@ -41,17 +41,17 @@ programmers 문제 단계별로 풀기
 
 ## level2🔥
 
-| week6 | week7 |
-|---|---|
-| :heavy_check_mark: 124나라의 숫자 | :heavy_check_mark: 다리를 지나는 트럭 |
-| 가장 큰 정사각형 찾기 | :heavy_check_mark: 주식가격 |
-| :heavy_check_mark: 올바른 괄호 | :heavy_check_mark: 가장 큰 수 |
-| :heavy_check_mark: 다음 큰 숫자 | :heavy_check_mark: H-Index |
-| 땅따먹기 |  |
-| :heavy_check_mark: 숫자의 표현 |  |
-| :heavy_check_mark: 최대값과 최소값 |  |
-| :heavy_check_mark: 최소값 만들기 |  |
-| :heavy_check_mark: 피보나치수 |  |
-| :heavy_check_mark: 행렬의 곱셈 |  |
-| :heavy_check_mark: n개의 최소공배수 |  |
-| :heavy_check_mark: JadenCase 문자열만들기 |  |
+| week6 | week7 | week8 |
+|---|---|---|
+| :heavy_check_mark: 124나라의 숫자 | :heavy_check_mark: 다리를 지나는 트럭 | 조이스틱 |
+| 가장 큰 정사각형 찾기 | :heavy_check_mark: 주식가격 | 큰 수 만들기 |
+| :heavy_check_mark: 올바른 괄호 | :heavy_check_mark: 가장 큰 수 | 구명보트 |
+| :heavy_check_mark: 다음 큰 숫자 | :heavy_check_mark: H-Index | 소수 찾기 |
+| 땅따먹기 |  | 카펫 |
+| :heavy_check_mark: 숫자의 표현 |  | 전화번호 목록 |
+| :heavy_check_mark: 최대값과 최소값 |  |  |
+| :heavy_check_mark: 최소값 만들기 |  |  |
+| :heavy_check_mark: 피보나치수 |  |  |
+| :heavy_check_mark: 행렬의 곱셈 |  |  |
+| :heavy_check_mark: n개의 최소공배수 |  |  |
+| :heavy_check_mark: JadenCase 문자열만들기 |  |  |

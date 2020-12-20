@@ -2,9 +2,9 @@
 
 def solution(bridge_length, weight, truck_weights):
   answer = 0 #초
-  dic={}
+  dic={} #트럭의 인덱스가 키, [무게, 거리] 값
   i=0 #트럭 인덱스
-  finish=0
+  finish=0 #다리를 지난 트럭의 수
   while True:
     if finish==len(truck_weights):
       print("트럭이 모두 다리를 건넜습니다 {finish}")
