@@ -6,22 +6,21 @@ def solution(name):
   for n in name:
     cnt_list.append(alpha[n])
   print(cnt_list)
-  
-  cnt1=0
-  for i in range(1,len(cnt_list)):
-    if cnt_list[i]==0:
-      cnt1+=1
-    else:
-      break
-  
-  cnt2=0
-  for i in range(len(cnt_list)-1,0,-1):
-    if cnt_list[i]==0:
-      cnt2+=1
-    else:
-      break
   answer=sum(cnt_list)
-  answer+= len(cnt_list)-1-cnt1 if cnt1>cnt2 else len(cnt_list)-1-cnt2
+
+  #여기부터 구글 참고
+  idx=0
+  left=right=1
+  while True:
+    cnt_list[idx]=0
+    if sum(cnt_list)==0: break
+    while cnt_list[idx-left]==0:
+      left+=1
+    while cnt_list[idx+right]==0:
+      right+=1
+    answer+=left if left<right else right
+    idx+= -left if left<right else right
+
   return answer
 
 

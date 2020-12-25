@@ -43,9 +43,9 @@ programmers 문제 단계별로 풀기
 
 | week6 | week7 | week8 |
 |---|---|---|
-| :heavy_check_mark: 124나라의 숫자 | :heavy_check_mark: 다리를 지나는 트럭 | 조이스틱 |
+| :heavy_check_mark: 124나라의 숫자 | :heavy_check_mark: 다리를 지나는 트럭 | :heavy_check_mark: 조이스틱 |
 | 가장 큰 정사각형 찾기 | :heavy_check_mark: 주식가격 | 큰 수 만들기 |
-| :heavy_check_mark: 올바른 괄호 | :heavy_check_mark: 가장 큰 수 | 구명보트 |
+| :heavy_check_mark: 올바른 괄호 | :heavy_check_mark: 가장 큰 수 | :heavy_check_mark: 구명보트 |
 | :heavy_check_mark: 다음 큰 숫자 | :heavy_check_mark: H-Index | :heavy_check_mark: 소수 찾기 |
 | 땅따먹기 |  | :heavy_check_mark: 카펫 |
 | :heavy_check_mark: 숫자의 표현 |  | :heavy_check_mark: 전화번호 목록 |
