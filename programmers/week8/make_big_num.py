@@ -14,7 +14,6 @@
 #   cnt+=k-cnt
 #   for _ in range(k-cnt):
 #     nums.pop()
-    
 #   print(nums)
 #   answer = "".join(nums)
 #   return answer
@@ -26,12 +25,12 @@ def solution(number, k):
       k-=1
       stack.pop()
     stack.append(num)
+  if k>0:
+    stack=stack[:-k]
   answer="".join(stack)
-  while k>0:
-    stack.pop()
   return answer
 
 number="4177252841"
-number="1111"
+number="11111"
 k=2
 print(solution(number,k))

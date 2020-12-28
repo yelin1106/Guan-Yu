@@ -1,11 +1,11 @@
 # 카펫
 
-def solution(brown, yellow):
+def solution(brown, yellow): #10 2
   answer = []
-  yellow_y=1
-  yellow_x=yellow
+  yellow_y=1 #1
+  yellow_x=yellow #2
   while True:
-    if (yellow_x*2)+(yellow_y+2)*2 == brown:
+    if (yellow_x*2)+(yellow_y+2)*2 == brown: 
       answer.append(yellow_x+2)
       answer.append(yellow_y+2)
       break

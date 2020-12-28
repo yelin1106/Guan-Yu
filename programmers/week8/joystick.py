@@ -13,7 +13,8 @@ def solution(name):
   left=right=1
   while True:
     cnt_list[idx]=0
-    if sum(cnt_list)==0: break
+    if sum(cnt_list)==0:
+      break
     while cnt_list[idx-left]==0:
       left+=1
     while cnt_list[idx+right]==0:

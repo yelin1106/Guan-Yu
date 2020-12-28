@@ -55,3 +55,10 @@ programmers 문제 단계별로 풀기
 | :heavy_check_mark: 행렬의 곱셈 |  |  |
 | :heavy_check_mark: n개의 최소공배수 |  |  |
 | :heavy_check_mark: JadenCase 문자열만들기 |  |  |
+
+| week9 | 
+|---|
+| 프린터 |
+| :heavy_check_mark: 기능개발 |
+| 더 맵게 |
+| 위장 |

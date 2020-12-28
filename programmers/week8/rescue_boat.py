@@ -1,6 +1,6 @@
 # 구명보트
 
-#s내가 짠 코드 중에 제일 빠른 코드 (효율성 통과 못함)
+#내가 짠 코드 중에 제일 빠른 코드 (효율성 통과 못함)
 # def solution(people, limit):
 #   answer = 0
 #   people.sort(reverse=True)
