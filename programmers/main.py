@@ -59,4 +59,5 @@
 #import week8.rescue_boat
 
 
-import week9.function_develop
+#import week9.function_develop
+import week9.printer
