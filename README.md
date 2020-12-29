@@ -58,7 +58,7 @@ programmers 문제 단계별로 풀기
 
 | week9 | 
 |---|
-| 프린터 |
+| :heavy_check_mark: 프린터 |
 | :heavy_check_mark: 기능개발 |
 | 더 맵게 |
 | 위장 |
