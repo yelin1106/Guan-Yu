@@ -3,19 +3,18 @@
 def solution(priorities, location):
   answer = 0
   while True:
-    temp=priorities[0]
+    temp=priorities.pop(0)
     flag=True #현재 문서를 출력한다
-    for p in priorities[1:]:
+    for p in priorities:
       if p>temp:
         flag=False
         break
     if flag:
       answer+=1
-      if priorities.index(temp)==location:
+      if location==0:
         break
     else :
       priorities.append(temp)
-    priorities.pop(0)
     location= (location+len(priorities)-1)%len(priorities)
   return answer
 
