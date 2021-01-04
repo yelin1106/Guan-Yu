@@ -62,4 +62,7 @@
 #import week9.function_develop
 #import week9.printer
 #import week9.camouflage
-import week9.more_spicy
+#import week9.more_spicy
+
+
+import week10.target_number
