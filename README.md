@@ -60,6 +60,6 @@ programmers 문제 단계별로 풀기
 | Week10 |
 |---|
 | :heavy_check_mark: 타겟 넘버 |
-| 삼각 달팽이 |
+| :heavy_check_mark: 삼각 달팽이 |
 | 쿼드압축 후 개수 세기 |
 | 이진 변환 반복하기 |

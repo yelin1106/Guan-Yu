@@ -65,4 +65,5 @@
 #import week9.more_spicy
 
 
-import week10.target_number
+#import week10.target_number
+import week10.triangle_snail
