@@ -66,4 +66,5 @@
 
 
 #import week10.target_number
-import week10.triangle_snail
+#import week10.triangle_snail
+import week10.quad_compression
