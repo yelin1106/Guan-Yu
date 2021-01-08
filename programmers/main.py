@@ -33,10 +33,10 @@
 #import week5.darts_game
 
 #import week6.num_of_124_country
-###import week6.biggist_square
+#import week6.biggist_square
 #import week6.proper_bracket
 #import week6.next_big_num
-import week6.hopscotch
+#import week6.hopscotch
 #import week6.number_expression
 #import week6.max_and_min
 #import week6.make_min
