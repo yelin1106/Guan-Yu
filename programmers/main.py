@@ -36,12 +36,12 @@
 ###import week6.biggist_square
 #import week6.proper_bracket
 #import week6.next_big_num
-###import week6.hopscotch
+import week6.hopscotch
 #import week6.number_expression
 #import week6.max_and_min
 #import week6.make_min
 #import week6.fibonacci_num
-###import week6.matrix_multiplication
+#import week6.matrix_multiplication
 #import week6.jadencase
 #import week6.some_of_lcm
 
@@ -68,4 +68,4 @@
 #import week10.target_number
 #import week10.triangle_snail
 #import week10.quad_compression
-import week10.repeat_binary_conversion
+#import week10.repeat_binary_conversion
