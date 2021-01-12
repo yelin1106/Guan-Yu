@@ -71,4 +71,5 @@
 #import week10.repeat_binary_conversion
 
 
-import week11.skill_tree
+#import week11.skill_tree
+import week11.make_prime
