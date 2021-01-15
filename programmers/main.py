@@ -74,4 +74,5 @@
 #import week11.skill_tree
 #import week11.make_prime
 #import week11.jump_and_teleport
-import week11.eng_word_chain
+#import week11.eng_word_chain
+import week11.intact_square
