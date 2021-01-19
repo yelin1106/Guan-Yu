@@ -60,7 +60,7 @@ programmers 문제 단계별로 풀기
 | Week10 | Week11 | Week12 |
 |---|---|---|
 | :heavy_check_mark: 타겟 넘버 | :heavy_check_mark: 스킬트리 | :heavy_check_mark: 폰켓몬 |
-| :heavy_check_mark: 삼각 달팽이 | :heavy_check_mark: 멀쩡한 사각형 | 짝지어 제거하기 |
+| :heavy_check_mark: 삼각 달팽이 | :heavy_check_mark: 멀쩡한 사각형 | :heavy_check_mark: 짝지어 제거하기 |
 | :heavy_check_mark: 쿼드압축 후 개수 세기 | :heavy_check_mark: 소수 만들기 | 예상 대진표 |
 | :heavy_check_mark: 이진 변환 반복하기 | :heavy_check_mark: 점프와 순간 이동 |  |
 |  | :heavy_check_mark: 영어 끝말잇기 |  |
