@@ -65,11 +65,12 @@ programmers 문제 단계별로 풀기
 | :heavy_check_mark: 이진 변환 반복하기 | :heavy_check_mark: 점프와 순간 이동 |  | |
 |  | :heavy_check_mark: 영어 끝말잇기 |  | |
 
+## 210131~210207 휴가
 
 ## level3🔥
 
-| Week14 |
+| Week15 |
 |---|
-|  |
-|  |
-|  |
+| 가장 긴 팰린드롬 |
+| 멀리 뛰기 |
+| 거스름돈 |
