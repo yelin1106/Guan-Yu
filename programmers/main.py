@@ -88,5 +88,5 @@
 #import week13.tiling_2xn
 
 #import week15.longest_palindrome
-###import week15.change
-import week15.long_jump
+import week15.change
+#import week15.long_jump

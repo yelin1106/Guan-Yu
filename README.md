@@ -69,8 +69,8 @@ programmers 문제 단계별로 풀기
 
 ## level3🔥
 
-| Week15 |
-|---|
-| :heavy_check_mark: 가장 긴 팰린드롬 |
-| 멀리 뛰기 |
-| 거스름돈 |
+| Week15 | Week16 |
+|---|---|
+| :heavy_check_mark: 가장 긴 팰린드롬 | 야근 지수 |
+| :heavy_check_mark: 멀리 뛰기 | 줄 서는 방법 |
+| 거스름돈 | 최고의 집합 |
