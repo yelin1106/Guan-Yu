@@ -71,6 +71,6 @@ programmers 문제 단계별로 풀기
 
 | Week15 | Week16 |
 |---|---|
-| :heavy_check_mark: 가장 긴 팰린드롬 | 야근 지수 |
-| :heavy_check_mark: 멀리 뛰기 | 줄 서는 방법 |
-| 거스름돈 | 최고의 집합 |
+| :heavy_check_mark: 가장 긴 팰린드롬 | :heavy_check_mark: 야근 지수 |
+| :heavy_check_mark: 멀리 뛰기 | :heavy_check_mark: 줄 서는 방법 |
+| :heavy_check_mark: 거스름돈 | :heavy_check_mark: 최고의 집합 |

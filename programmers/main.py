@@ -90,3 +90,7 @@
 #import week15.longest_palindrome
 import week15.change
 #import week15.long_jump
+
+#import week16.night_overtime
+#import week16.case_of_line
+#import week16.best_multi_set
