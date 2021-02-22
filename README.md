@@ -72,5 +72,5 @@ programmers 문제 단계별로 풀기
 | Week15 | Week16 | Week17 |
 |---|---|---|
 | :heavy_check_mark: 가장 긴 팰린드롬 | :heavy_check_mark: 야근 지수 | :heavy_check_mark: 하노이의 탑 |
-| :heavy_check_mark: 멀리 뛰기 | :heavy_check_mark: 줄 서는 방법 | N-Queen |
+| :heavy_check_mark: 멀리 뛰기 | :heavy_check_mark: 줄 서는 방법 | :heavy_check_mark: N-Queen |
 | :heavy_check_mark: 거스름돈 | :heavy_check_mark: 최고의 집합 | 베스트앨범 |

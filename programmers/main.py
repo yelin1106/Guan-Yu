@@ -95,4 +95,5 @@
 #import week16.case_of_line
 #import week16.best_multi_set
 
-import week17.tower_of_hanoi
+#import week17.tower_of_hanoi
+import week17.n_queen
