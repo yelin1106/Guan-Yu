@@ -16,11 +16,10 @@ def solution(genres, plays):
 
   for gen, _ in gen_cnt:
     gen_dic[gen]=sorted(gen_dic[gen], key=lambda x: (-x[1], x[0]))
-
-  for gen,_ in gen_cnt:
     end=2 if len(gen_dic[gen])>1 else 1
     for i in range(0,end):
       answer.append(gen_dic[gen][i][0])
+
   return answer
 
 genres=['classic', 'pop', 'classic', 'classic', 'pop']
