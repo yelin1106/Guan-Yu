@@ -69,8 +69,8 @@ programmers 문제 단계별로 풀기
 
 ## level3🔥
 
-| Week15 | Week16 | Week17 |
-|---|---|---|
-| :heavy_check_mark: 가장 긴 팰린드롬 | :heavy_check_mark: 야근 지수 | :heavy_check_mark: 하노이의 탑 |
-| :heavy_check_mark: 멀리 뛰기 | :heavy_check_mark: 줄 서는 방법 | :heavy_check_mark: N-Queen |
-| :heavy_check_mark: 거스름돈 | :heavy_check_mark: 최고의 집합 | :heavy_check_mark: 베스트앨범 |
+| Week15 | Week16 | Week17 | Week18 |
+|---|---|---|---|
+| :heavy_check_mark: 가장 긴 팰린드롬 | :heavy_check_mark: 야근 지수 | :heavy_check_mark: 하노이의 탑 | 네트워크 |
+| :heavy_check_mark: 멀리 뛰기 | :heavy_check_mark: 줄 서는 방법 | :heavy_check_mark: N-Queen | 단어 변환 |
+| :heavy_check_mark: 거스름돈 | :heavy_check_mark: 최고의 집합 | :heavy_check_mark: 베스트앨범 | 정수 삼각형 |
