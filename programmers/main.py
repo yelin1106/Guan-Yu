@@ -97,4 +97,6 @@
 
 #import week17.tower_of_hanoi
 #import week17.n_queen
-import week17.best_album
+#import week17.best_album
+
+import week18.network
