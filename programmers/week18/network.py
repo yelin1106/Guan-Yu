@@ -13,10 +13,7 @@ def solution(n, computers):
       while queue:
         com=queue.pop(0)
         for j in range(n):
-          print(f'com={com}')
-          print(computers[com][j])
-          if not check[com] and computers[com][j]==1:
-            print(f'j={j} {computers[com][j]}')
+          if not check[j] and computers[com][j]==1:
             queue.append(j)
             check[j]=True
   
