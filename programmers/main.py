@@ -99,4 +99,6 @@
 #import week17.n_queen
 #import week17.best_album
 
-import week18.network
+#import week18.network
+#import week18.integer_triangle
+import week18.change_word
