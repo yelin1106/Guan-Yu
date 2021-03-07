@@ -74,3 +74,9 @@ programmers 문제 단계별로 풀기
 | :heavy_check_mark: 가장 긴 팰린드롬 | :heavy_check_mark: 야근 지수 | :heavy_check_mark: 하노이의 탑 | :heavy_check_mark: 네트워크 |
 | :heavy_check_mark: 멀리 뛰기 | :heavy_check_mark: 줄 서는 방법 | :heavy_check_mark: N-Queen | :heavy_check_mark: 단어 변환 |
 | :heavy_check_mark: 거스름돈 | :heavy_check_mark: 최고의 집합 | :heavy_check_mark: 베스트앨범 | :heavy_check_mark: 정수 삼각형 |
+
+| Week19 |
+|---|
+| N으로 표현 |
+| 가장 먼 노드 |
+| 단속카메라 |
