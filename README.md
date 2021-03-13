@@ -77,6 +77,6 @@ programmers 문제 단계별로 풀기
 
 | Week19 |
 |---|
-| N으로 표현 |
-| 가장 먼 노드 |
-| 단속카메라 |
+| :heavy_check_mark: N으로 표현 |
+| :heavy_check_mark: 가장 먼 노드 |
+| :heavy_check_mark: 단속카메라 |
