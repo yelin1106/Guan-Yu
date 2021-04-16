@@ -75,7 +75,7 @@ programmers 문제 단계별로 풀기
 | :heavy_check_mark: 멀리 뛰기 | :heavy_check_mark: 줄 서는 방법 | :heavy_check_mark: N-Queen | :heavy_check_mark: 단어 변환 |
 | :heavy_check_mark: 거스름돈 | :heavy_check_mark: 최고의 집합 | :heavy_check_mark: 베스트앨범 | :heavy_check_mark: 정수 삼각형 |
 
-| Week19 | test |
+| Week19 |
 |---|
 | :heavy_check_mark: N으로 표현 |
 | :heavy_check_mark: 가장 먼 노드 |
